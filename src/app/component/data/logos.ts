@@ -18,26 +18,26 @@ const logos = [
         alt: "logo3",
     },
           {
-        address: "/logosec/logo-3.png",
+        address: "/logosec/Logo-3.png",
         height: 65,
         width: 63, 
         alt: "logo4",
     },
 
                 {
-        address: "/logosec/logo-4.png",
+        address: "/logosec/Logo-4.png",
         height: 101,
         width: 98, 
         alt: "logo5",
     },
                       {
-        address: "/logosec/logo-5.png",
+        address: "/logosec/Logo-5.png",
         height: 115,
         width: 113, 
         alt: "logo6",
     },
                                           {
-        address: "/logosec/logo-6.png",
+        address: "/logosec/Logo-6.png",
         height: 87,
         width: 84, 
         alt: "logo7",
