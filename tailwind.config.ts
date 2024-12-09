@@ -9,7 +9,8 @@ const config: Config = {
   theme: {
     extend: {
       screens: {
-        'xsm' : '500px'
+        'xsm' : '500px',
+        '2xl': '1500px'
       }
     
     },
