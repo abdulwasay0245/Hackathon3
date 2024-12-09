@@ -28,7 +28,7 @@ const socialLinks = [
 const Footer = () => {
   return (
     
-      <footer className='flex flex-col gap-24 lg:flex-row item-center justify-between justify-self-center border-y-2   xl:px-[300px] py-16 '>
+      <footer className='flex flex-col gap-24 lg:flex-row item-center justify-between justify-self-center border-y-2   2xl:px-[300px] py-16 '>
           <nav className='flex flex-col gap-6 items-center lg:items-start'>
                <div className='flex gap-2'>
                   <Image
