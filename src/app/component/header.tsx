@@ -50,10 +50,10 @@ const Header = () => {
               <div className='flex gap-2'>
                   <Image
                       alt='logo'
-                      width={40}
-                      height={40}
-                      src="/logoIcon.png"></Image>
-                   <h1 className='text-center text-[#272343] text-[26px] font-medium'>Comforty</h1>
+                      width={70}
+                      height={70}
+                      src="/eventhorizon.png"></Image>
+           
               </div>
              
              <Link href="./cart">
