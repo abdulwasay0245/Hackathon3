@@ -63,7 +63,7 @@ export default function Home() {
       {isLoading ? (
         <Loading /> // Render Loading component while loading
       ) : (
-        products.filter((product) => product.isNew == false).map(
+        products.map(
           (product: product) => (
             <div key={product._id}>
               <h3>{product.name}</h3>
